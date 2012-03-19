@@ -20,4 +20,5 @@ Barebones MIPS code has been provided under 'tests'.
 
 Legal
 =====
-Mipsy is Copyright (c) 2009 - 2012 Irving Ruan and is BSD licensed. The full text of the license can be found in LICENSE.
+Mipsy is Copyright (c) 2009—2012 Irving Ruan and is BSD licensed. The full 
+text of the license can be found in LICENSE.

@@ -1,8 +1,8 @@
 ##############################################################
-#   simulator.s 	
+#   Mipsy 	
 #								
-#   Irving Ruan
-#   irvingruan@gmail.com
+#   Written by Irving Ruan <irvingruan@gmail.com>
+#   v1.0
 #
 #   A simple MIPS simulator written in MIPS, which is able to 
 #	process and simulate 32 and 16-bit MIPS instructions.
