@@ -3,19 +3,17 @@ Mipsy
 
 Written by Irving Y. Ruan <irvingruan@gmail.com>
 
-32-bit MIPS simulator written in MIPS that's able to process 32-bit MIPS 
-instructions. 
+Mipsy is a 32-bit MIPS instruction set simulator written in MIPS.
 
 Usage
 =====
 
-You will need Mars, a MIPS "virtual machine" written in Java, which you can get
-at [http://courses.missouristate.edu/KenVollmar/Mars/download.htm](http://courses.missouristate.edu/KenVollmar/Mars/download.htm).
+Simply load `Simulator.s` into Mars.jar, a MIPS "virtual machine".
 
 
 Examples
 =====
-Barebones MIPS code has been provided under 'tests'.
+Barebone MIPS code has been provided under 'tests'. Write your own MIPS code and run it in using Mipsy!
 
 
 Legal
